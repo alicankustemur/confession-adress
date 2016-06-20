@@ -1,0 +1,8 @@
+**/target/*
+.springBeans
+.project
+.settings
+.classpath
+.gittignore
+rebel.xml
+/target/
